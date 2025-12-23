@@ -48,7 +48,6 @@ class HomeFragment : Fragment() {
 
 
 
-        // Categories static
         val categories = listOf("All", "Pizza", "Burger", "Indian", "Chinese", "Dessert", "Drinks")
 
         rvCategories.layoutManager =
@@ -76,7 +75,6 @@ class HomeFragment : Fragment() {
         rvRestaurants.adapter = restaurantAdapter
 
 
-        // Observe ViewModel
         viewModel.uiState.observe(viewLifecycleOwner) { state ->
             when (state) {
                 is HomeUiState.Loading -> {

@@ -7,5 +7,4 @@ data class RecipeDto(
     val image: String?,
     val rating: Double?,
     val prepTimeMinutes: Int?
-    // there are more fields in API, but these are enough [web:37]
 )

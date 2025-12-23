@@ -28,7 +28,6 @@ class CategoryAdapter(
         val category = categories[position]
         holder.tvName.text = category
 
-        // Set different icons based on category (simple mapping)
         val iconRes = when (category.lowercase()) {
             "all" -> R.drawable.ic_category_all
             "pizza" -> R.drawable.ic_category_pizza
