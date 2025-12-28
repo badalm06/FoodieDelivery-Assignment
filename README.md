@@ -170,4 +170,3 @@ For any queries or feedback, feel free to connect:
 
 📧 Email: [badalsh908@gmail.com](mailto:badalsh908@gmail.com)  
 🐙 GitHub: [github.com/badalm06](https://github.com/badalm06) 
- 💼 Portfolio: [badal.live](https://www.badal.live)
