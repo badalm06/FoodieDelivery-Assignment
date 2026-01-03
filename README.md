@@ -164,7 +164,6 @@ Setup:
 ---
 
 
-## 💬 Contact & Support
 
 For any queries or feedback, feel free to connect:
 
